@@ -8,3 +8,5 @@ PyTest Tutorial | Unit Testing Framework In Python | How to use PyTest | Python 
 Everything as used in the video and here can be done for free.
 
 I thought it was a good intro to learning the basics of pytest.
+
+src/test_api.py is the final and most fully-featured script in the video, and uses the online public REST API at reqres.in 
